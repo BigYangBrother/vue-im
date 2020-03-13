@@ -19,7 +19,7 @@ import 'font-awesome/css/font-awesome.min.css'
 
 // config
 Vue.config.productionTip = false;
-
+// ceshi
 /* eslint-disable no-new */
 window.polkVue = new Vue({
     el: '#app',
