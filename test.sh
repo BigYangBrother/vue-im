@@ -12,7 +12,7 @@ git pull
 # build
 npm run build:${dev}
 # 进入后端仓库
-cd /Users/liuyang/personal/build-test
+cd /Users/liuyang/personal/myblog
 git pull
 git checkout ${branch2}
 # 复制文件
